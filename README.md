@@ -1,7 +1,7 @@
-## Hi there 👋
+## Orion
 
 <!--
-**Lenux32/Lenux32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Orion is a customizable home page that brings web search, quick links, games, music, movies, anime, and books together in one place
 
 Here are some ideas to get you started:
 
