@@ -16,6 +16,11 @@ Orion has a web search bar, quick links, game and music libraries, movie and ani
 
 Follow Me on 
 
-* Discord:
+* Discord:https://discord.gg/YR65ndRyD
+
+Leak of the Orion Site: 
+
+![description](https://site.com/image.png)
+
 
 
