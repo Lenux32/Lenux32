@@ -13,7 +13,7 @@ projects i Own and Work with
 
 * Voidx (Owner) 🌌
 
-Orion has a web search bar, quick links, game and music libraries, movie and anime service links, and a Manga & Books section with an embedded book preview. You can also customize its theme, accent color, font, interface size, and motion settings.
+Orion has a web search bar, quick links, game and music libraries, movie and anime service links, and a Manga & Books section with an embedded book preview. You can also customize its theme, accent color, font, interface size, and motion settings. I also like wifiskeleton
 
 Follow Me on 
 
@@ -21,7 +21,7 @@ Follow Me on
 
 Leak of the Orion Site: 
 
-![description](https://site.com/image.png)
+<img width="1366" height="768" alt="orions" src="https://github.com/user-attachments/assets/edc50f34-fe18-44eb-ab06-990f7355b198" />
 
 
 
