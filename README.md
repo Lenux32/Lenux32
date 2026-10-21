@@ -1,16 +1,27 @@
-## Orion
-
-<!--
-**Orion is a customizable home page that brings web search, quick links, games, music, movies, anime, and books together in one place
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Orion
+Orion is a customizable home page that brings web search, quick links, games, music, movies, anime, and books together in one place.
+projects i Own and Work with
+Orion (owner)
+cherri (ex-owner)
+gmshelf (owner)
+fern (co-owner)
+lucide
+quasar
+vortex
+nautilusOS
+gust
+toustream
+wasm.rip
+nocturne.lol
+chillzone
+my apis/libs
+x8rr/movies
+x8rr/movies
+x8rr/music
+x8rr/stratus-api
+x8rr/sapphire
+gmshelf
+my webports
+crashout crew
+mc dungeons (wip)
+check pinned repos
